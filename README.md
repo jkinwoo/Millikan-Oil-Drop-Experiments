@@ -1,5 +1,5 @@
 ## Millikan Oil Drop Experiment Tracker
-Millikan Oil Drop Experiment requires repetetive particle tracking job. This process is very likely be affected by human-error due to handpicking oil droplets. Thus, automated tracker will reduce the error and collect much larger dataset leading to unbiased result of the experiment.
+Millikan Oil Drop Experiment requires repetitive particle tracking job. This process is very likely be affected by human-error due to handpicking oil droplets. Thus, automated tracker will reduce the error and collect much larger dataset leading to unbiased result of the experiment.
 ## Description
 This project consist of three parts. First, it tracks particles through extract.py, then it scales the data into actual velocity through transform.py. Finally, calculator.py calculate the velocities, radius, and charge of the droplets.
 ## Installation
